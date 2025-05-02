@@ -1,0 +1,14 @@
+backend/
+├── controllers/
+│   └── userController.js
+├── models/
+│   └── userModel.js
+├── routes/
+│   └── authRoutes.js
+├── middleware/
+│   └── authMiddleware.js
+├── config/
+│   └── db.js
+├── app.js
+├── package.json
+└── .env
